@@ -1,0 +1,156 @@
+[
+  {
+    "id": "start",
+    "text": "バトルでいちばん楽しみたいのは、敵との戦闘？",
+    "tag": "攻撃",
+    "yes": "fight",
+    "no": "support"
+  },
+  {
+    "id": "fight",
+    "text": "素早く移動して相手を翻弄したい？",
+    "tag": "機動力",
+    "yes": "ambush",
+    "no": "range"
+  },
+  {
+    "id": "support",
+    "text": "味方のためにポータルを守るのが好き？",
+    "tag": "防衛",
+    "yes": "tank",
+    "no": "disrupt"
+  },
+  {
+    "id": "ambush",
+    "text": "正面から戦うより奇襲が好き？",
+    "tag": "奇襲",
+    "yes": "tactics",
+    "no": "power"
+  },
+  {
+    "id": "range",
+    "text": "離れた位置から攻撃したい？",
+    "tag": "遠距離",
+    "yes": "tactics",
+    "no": "power"
+  },
+  {
+    "id": "tank",
+    "text": "粘り強く耐えて時間を稼ぐのが好き？",
+    "tag": "耐久",
+    "yes": "tactics",
+    "no": "team"
+  },
+  {
+    "id": "disrupt",
+    "text": "相手を妨害して動きを制限したい？",
+    "tag": "妨害",
+    "yes": "tactics",
+    "no": "team"
+  },
+  {
+    "id": "power",
+    "text": "積極的に相手を倒す役割が好き？",
+    "tag": "攻撃",
+    "yes": "tactics",
+    "no": "team"
+  },
+  {
+    "id": "team",
+    "text": "味方の活躍を支えるのが好き？",
+    "tag": "支援",
+    "yes": "tactics",
+    "no": "tactics"
+  },
+  {
+    "id": "tactics",
+    "text": "作戦や駆け引きに時間をかけたい？",
+    "tag": "戦略",
+    "yes": "trap",
+    "no": "trap"
+  },
+  {
+    "id": "trap",
+    "text": "高火力の罠を仕掛けて敵のHPを削りたい？",
+    "tag": "罠",
+    "yes": "final",
+    "no": "final"
+  },
+  {
+    "id": "final",
+    "text": "自分から動いて試合を変えたい？",
+    "tag": "機動力",
+    "yes": "style_fast",
+    "no": "style_slow"
+  },
+  {
+    "id": "style_fast",
+    "text": "敵の不意を突いて一気に攻めるのが好き？",
+    "tag": "奇襲",
+    "yes": "close_fast",
+    "no": "close_fast"
+  },
+  {
+    "id": "style_slow",
+    "text": "相手の動きを読んで有利な状況を作りたい？",
+    "tag": "戦略",
+    "yes": "close_slow",
+    "no": "close_slow"
+  },
+  {
+    "id": "close_fast",
+    "text": "接近して戦う方が自分に合っている？",
+    "tag": "近距離",
+    "yes": "control_fast",
+    "no": "control_fast"
+  },
+  {
+    "id": "close_slow",
+    "text": "遠くから安全に攻撃する方が好き？",
+    "tag": "遠距離",
+    "yes": "control_slow",
+    "no": "control_slow"
+  },
+  {
+    "id": "control_fast",
+    "text": "敵の動きを妨害してチャンスを作りたい？",
+    "tag": "妨害",
+    "yes": "help_fast",
+    "no": "help_fast"
+  },
+  {
+    "id": "control_slow",
+    "text": "守りながら敵を妨害する戦い方が好き？",
+    "tag": "防衛",
+    "yes": "help_slow",
+    "no": "help_slow"
+  },
+  {
+    "id": "help_fast",
+    "text": "仲間と連携して勝つことを重視する？",
+    "tag": "支援",
+    "yes": "adapt_fast",
+    "no": "adapt_fast"
+  },
+  {
+    "id": "help_slow",
+    "text": "味方を助けることにやりがいを感じる？",
+    "tag": "支援",
+    "yes": "adapt_slow",
+    "no": "adapt_slow"
+  },
+  {
+    "id": "adapt_fast",
+    "text": "状況に応じて戦い方を変えるのが得意？",
+    "tag": "柔軟",
+    "yes": null,
+    "no": null
+  },
+  {
+    "id": "adapt_slow",
+    "text": "長く生き残って最後まで粘りたい？",
+    "tag": "耐久",
+    "yes": null,
+    "no": null
+  }
+]

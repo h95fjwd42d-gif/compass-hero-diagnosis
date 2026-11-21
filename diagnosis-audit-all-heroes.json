@@ -1,0 +1,1322 @@
+{
+  "normalPathsAvailable": 3584,
+  "targetedTrials": 2346,
+  "witnesses": {
+    "十文字 アタリ": null,
+    "Voidoll": null,
+    "ニコラ テスラ": null,
+    "コクリコット ブランシュ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": false
+        },
+        {
+          "id": "power",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": false
+        },
+        {
+          "id": "close_fast",
+          "yes": false
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "遠距離",
+          "yes": false
+        },
+        {
+          "tag": "防衛",
+          "yes": false
+        },
+        {
+          "tag": "弱体化",
+          "yes": true
+        },
+        {
+          "tag": "耐久",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h04",
+          "name": "コクリコット ブランシュ",
+          "score": 12
+        },
+        {
+          "id": "h22",
+          "name": "イグニス=ウィル=ウィスプ",
+          "score": 12
+        },
+        {
+          "id": "h26",
+          "name": "シャルル・リヒター",
+          "score": 11
+        }
+      ]
+    },
+    "かけだし勇者": null,
+    "輝龍院 きらら": null,
+    "零夜": null,
+    "ピエール77世": null,
+    "アル・ダハブ＝アルカティア": null,
+    "某＜なにがし＞": null,
+    "チーちゃん": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": false
+        },
+        {
+          "id": "power",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": false
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": true
+        },
+        {
+          "id": "close_fast",
+          "yes": false
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "疾走攻撃",
+          "yes": true
+        },
+        {
+          "tag": "遠距離",
+          "yes": false
+        },
+        {
+          "tag": "弱体化",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h11",
+          "name": "チーちゃん",
+          "score": 13
+        },
+        {
+          "id": "h22",
+          "name": "イグニス=ウィル=ウィスプ",
+          "score": 12
+        },
+        {
+          "id": "h12",
+          "name": "ペルリニエ",
+          "score": 8.75
+        }
+      ]
+    },
+    "ペルリニエ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": false
+        },
+        {
+          "id": "power",
+          "yes": false
+        },
+        {
+          "id": "team",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": false
+        },
+        {
+          "id": "trap",
+          "yes": false
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": false
+        },
+        {
+          "id": "close_fast",
+          "yes": false
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "防衛",
+          "yes": false
+        },
+        {
+          "tag": "耐久",
+          "yes": false
+        },
+        {
+          "tag": "弱体化",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h12",
+          "name": "ペルリニエ",
+          "score": 9.75
+        },
+        {
+          "id": "h02",
+          "name": "Voidoll",
+          "score": 9.75
+        },
+        {
+          "id": "h22",
+          "name": "イグニス=ウィル=ウィスプ",
+          "score": 7.75
+        }
+      ]
+    },
+    "双挽 乃保": null,
+    "桜華 忠臣": null,
+    "マルコス'55": null,
+    "マリア=S=レオンブルク": null,
+    "アダム=ユーリエフ": null,
+    "ヴィーナス ポロロッチョ": null,
+    "デビルミント鬼龍 デルミン": null,
+    "ルルカ": null,
+    "狐ヶ咲 甘色": null,
+    "イグニス=ウィル=ウィスプ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": true
+        },
+        {
+          "id": "close_fast",
+          "yes": true
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "遠距離",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h22",
+          "name": "イグニス=ウィル=ウィスプ",
+          "score": 11.75
+        },
+        {
+          "id": "h24",
+          "name": "クー・シー",
+          "score": 11.75
+        },
+        {
+          "id": "h37",
+          "name": "糸廻 輪廻",
+          "score": 10.75
+        }
+      ]
+    },
+    "ステリア・ララ・シルワ": null,
+    "クー・シー": null,
+    "コラプス": null,
+    "シャルル・リヒター": null,
+    "オクトバリ・ニャル・タココ": null,
+    "リリカ": null,
+    "ルチアーノ": null,
+    "深川 まとい": null,
+    "13 ‡サーティーン‡": null,
+    "メグメグ": null,
+    "イスタカ": null,
+    "ソーン=ユーリエフ": null,
+    "ニーズヘッグ": null,
+    "ゲームバズーカガール": null,
+    "糸廻 輪廻": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": true
+        },
+        {
+          "id": "close_fast",
+          "yes": true
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "遠距離",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h37",
+          "name": "糸廻 輪廻",
+          "score": 15.75
+        },
+        {
+          "id": "h40",
+          "name": "みりぽゆ",
+          "score": 15.75
+        },
+        {
+          "id": "h41",
+          "name": "メルーニャ",
+          "score": 11.5
+        }
+      ]
+    },
+    "Bugdoll": null,
+    "天空王 ぶれいずどらごん": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": false
+        },
+        {
+          "id": "power",
+          "yes": false
+        },
+        {
+          "id": "team",
+          "yes": false
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": false
+        },
+        {
+          "id": "close_fast",
+          "yes": true
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "防衛",
+          "yes": true
+        },
+        {
+          "tag": "耐久",
+          "yes": false
+        },
+        {
+          "tag": "遠距離",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h39",
+          "name": "天空王 ぶれいずどらごん",
+          "score": 10.75
+        },
+        {
+          "id": "h12",
+          "name": "ペルリニエ",
+          "score": 8.5
+        },
+        {
+          "id": "h02",
+          "name": "Voidoll",
+          "score": 8.5
+        }
+      ]
+    },
+    "みりぽゆ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": false
+        },
+        {
+          "id": "power",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": false
+        },
+        {
+          "id": "trap",
+          "yes": false
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": true
+        },
+        {
+          "id": "close_fast",
+          "yes": true
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "遠距離",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h40",
+          "name": "みりぽゆ",
+          "score": 16.25
+        },
+        {
+          "id": "h22",
+          "name": "イグニス=ウィル=ウィスプ",
+          "score": 12
+        },
+        {
+          "id": "h13",
+          "name": "双挽 乃保",
+          "score": 9.75
+        }
+      ]
+    },
+    "メルーニャ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": false
+        },
+        {
+          "id": "power",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": false
+        },
+        {
+          "id": "close_fast",
+          "yes": false
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "遠距離",
+          "yes": true
+        },
+        {
+          "tag": "防衛",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h41",
+          "name": "メルーニャ",
+          "score": 12
+        },
+        {
+          "id": "h22",
+          "name": "イグニス=ウィル=ウィスプ",
+          "score": 12
+        },
+        {
+          "id": "h38",
+          "name": "Bugdoll",
+          "score": 11
+        }
+      ]
+    },
+    "ジャスティス ハンコック": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": false
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": false
+        },
+        {
+          "tag": "近距離",
+          "yes": false
+        },
+        {
+          "tag": "柔軟",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h42",
+          "name": "ジャスティス ハンコック",
+          "score": 10.25
+        },
+        {
+          "id": "h43",
+          "name": "ジャンヌ ダルク",
+          "score": 10.25
+        },
+        {
+          "id": "h47",
+          "name": "青春アリス",
+          "score": 8.25
+        }
+      ]
+    },
+    "ジャンヌ ダルク": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": false
+        },
+        {
+          "id": "power",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": false
+        },
+        {
+          "id": "trap",
+          "yes": false
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": false
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": false
+        },
+        {
+          "tag": "近距離",
+          "yes": false
+        },
+        {
+          "tag": "柔軟",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h43",
+          "name": "ジャンヌ ダルク",
+          "score": 10.75
+        },
+        {
+          "id": "h42",
+          "name": "ジャスティス ハンコック",
+          "score": 10.75
+        },
+        {
+          "id": "h47",
+          "name": "青春アリス",
+          "score": 8.75
+        }
+      ]
+    },
+    "グスタフ ハイドリヒ": null,
+    "ヴィオレッタ ノワール": null,
+    "トマス": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": false
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": true
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": false
+        },
+        {
+          "tag": "近距離",
+          "yes": false
+        },
+        {
+          "tag": "柔軟",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h46",
+          "name": "トマス",
+          "score": 13.25
+        },
+        {
+          "id": "h49",
+          "name": "アミスター=バランディン",
+          "score": 13.25
+        },
+        {
+          "id": "h37",
+          "name": "糸廻 輪廻",
+          "score": 11.25
+        }
+      ]
+    },
+    "青春アリス": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": false
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": true
+        },
+        {
+          "tag": "柔軟",
+          "yes": false
+        },
+        {
+          "tag": "近距離",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h47",
+          "name": "青春アリス",
+          "score": 13.25
+        },
+        {
+          "id": "h50",
+          "name": "鬼ヶ式 うら",
+          "score": 10.25
+        },
+        {
+          "id": "h48",
+          "name": "ラヴィ・シュシュマルシュ",
+          "score": 10.25
+        }
+      ]
+    },
+    "ラヴィ・シュシュマルシュ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": false
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": true
+        },
+        {
+          "tag": "柔軟",
+          "yes": false
+        },
+        {
+          "tag": "近距離",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h48",
+          "name": "ラヴィ・シュシュマルシュ",
+          "score": 16.25
+        },
+        {
+          "id": "h47",
+          "name": "青春アリス",
+          "score": 13
+        },
+        {
+          "id": "h50",
+          "name": "鬼ヶ式 うら",
+          "score": 10
+        }
+      ]
+    },
+    "アミスター=バランディン": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": false
+        },
+        {
+          "id": "range",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": true
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": false
+        },
+        {
+          "tag": "近距離",
+          "yes": false
+        },
+        {
+          "tag": "奇襲",
+          "yes": false
+        },
+        {
+          "tag": "柔軟",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h49",
+          "name": "アミスター=バランディン",
+          "score": 13.5
+        },
+        {
+          "id": "h46",
+          "name": "トマス",
+          "score": 13.5
+        },
+        {
+          "id": "h50",
+          "name": "鬼ヶ式 うら",
+          "score": 10.5
+        }
+      ]
+    },
+    "鬼ヶ式 うら": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": false
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": true
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": true
+        },
+        {
+          "tag": "近距離",
+          "yes": false
+        },
+        {
+          "tag": "柔軟",
+          "yes": false
+        }
+      ],
+      "top3": [
+        {
+          "id": "h50",
+          "name": "鬼ヶ式 うら",
+          "score": 15.25
+        },
+        {
+          "id": "h46",
+          "name": "トマス",
+          "score": 13
+        },
+        {
+          "id": "h49",
+          "name": "アミスター=バランディン",
+          "score": 13
+        }
+      ]
+    },
+    "‡ファースト‡": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": false
+        },
+        {
+          "id": "style_slow",
+          "yes": false
+        },
+        {
+          "id": "close_slow",
+          "yes": false
+        },
+        {
+          "id": "control_slow",
+          "yes": true
+        },
+        {
+          "id": "help_slow",
+          "yes": true
+        },
+        {
+          "id": "adapt_slow",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "妨害",
+          "yes": false
+        },
+        {
+          "tag": "近距離",
+          "yes": false
+        },
+        {
+          "tag": "柔軟",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h51",
+          "name": "‡ファースト‡",
+          "score": 14.25
+        },
+        {
+          "id": "h43",
+          "name": "ジャンヌ ダルク",
+          "score": 10
+        },
+        {
+          "id": "h42",
+          "name": "ジャスティス ハンコック",
+          "score": 10
+        }
+      ]
+    }
+  },
+  "allHeroesConfirmed": false
+}

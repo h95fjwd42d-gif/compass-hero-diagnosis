@@ -1,0 +1,812 @@
+[
+  {
+    "id": "h01",
+    "name": "十文字 アタリ",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "攻撃",
+      "柔軟"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h01.jpeg"
+  },
+  {
+    "id": "h02",
+    "name": "Voidoll",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "妨害",
+      "支援"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h02.jpeg"
+  },
+  {
+    "id": "h03",
+    "name": "ニコラ テスラ",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "戦略",
+      "妨害"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h03.jpeg"
+  },
+  {
+    "id": "h04",
+    "name": "コクリコット ブランシュ",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "攻撃",
+      "妨害",
+      "弱体化"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h04.jpeg",
+    "diagnosisNote": "相手の能力を下げる妨害を重視する"
+  },
+  {
+    "id": "h05",
+    "name": "かけだし勇者",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "妨害",
+      "奇襲"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/372147",
+    "researchNote": "ジャンプによる地形越えや着地時の妨害を活かす",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h05.jpeg"
+  },
+  {
+    "id": "h06",
+    "name": "輝龍院 きらら",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "奇襲",
+      "攻撃"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/380127",
+    "researchNote": "透明化を活かした接近・裏取り。範囲攻撃には注意。",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h06.jpeg"
+  },
+  {
+    "id": "h07",
+    "name": "零夜",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "奇襲",
+      "妨害"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h07.jpeg"
+  },
+  {
+    "id": "h08",
+    "name": "ピエール77世",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "妨害",
+      "防衛"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h08.jpeg"
+  },
+  {
+    "id": "h09",
+    "name": "アル・ダハブ＝アルカティア",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "妨害",
+      "攻撃"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h09.jpeg"
+  },
+  {
+    "id": "h10",
+    "name": "某＜なにがし＞",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "攻撃",
+      "奇襲"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/536775",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h10.jpeg",
+    "researchNote": "無属性で戦うキル型スプリンター。特殊なダッシュ攻撃と貫通カードを活かす。",
+    "sourceUpdated": "2026-02-04"
+  },
+  {
+    "id": "h11",
+    "name": "チーちゃん",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "攻撃",
+      "奇襲",
+      "疾走攻撃"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/566059",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h11.jpeg",
+    "researchNote": "高速ダッシュとダッシュ中に強化される攻撃カードを活かして敵を追い詰める。",
+    "sourceUpdated": "2026-10-28",
+    "diagnosisNote": "走りながら攻撃のチャンスを作る"
+  },
+  {
+    "id": "h12",
+    "name": "ペルリニエ",
+    "role": "スプリンター",
+    "tags": [
+      "機動力",
+      "妨害",
+      "柔軟"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/570652",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h12.jpeg",
+    "researchNote": "ダッシュの軌跡に弱体化エリアを作る。メダルとデッキで攻撃・支援の方向性が変わる。",
+    "sourceUpdated": "2026-11-20"
+  },
+  {
+    "id": "h13",
+    "name": "双挽 乃保",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "奇襲"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h13.jpeg"
+  },
+  {
+    "id": "h14",
+    "name": "桜華 忠臣",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "防衛"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/231602",
+    "researchNote": "近距離カードを軸にしたタイマン戦と、突進HAによる移動・押し出し",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h14.jpeg"
+  },
+  {
+    "id": "h15",
+    "name": "マルコス'55",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "機動力",
+      "奇襲"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/369219",
+    "researchNote": "相手への接近HAとHSによる回復・強化を活かす",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h15.jpeg"
+  },
+  {
+    "id": "h16",
+    "name": "マリア=S=レオンブルク",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "妨害"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h16.jpeg"
+  },
+  {
+    "id": "h17",
+    "name": "アダム=ユーリエフ",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "遠距離"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/313514",
+    "researchNote": "近距離攻撃と長射程HAを使い分ける。HAの隙を管理。",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h17.jpeg"
+  },
+  {
+    "id": "h18",
+    "name": "ヴィーナス ポロロッチョ",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "奇襲",
+      "戦略"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h18.jpeg"
+  },
+  {
+    "id": "h19",
+    "name": "デビルミント鬼龍 デルミン",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "機動力"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/400270",
+    "researchNote": "HAで素早く距離を詰め、通常攻撃を軸に粘り強く戦う",
+    "sourcePublished": "2025-11-05",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h19.jpeg"
+  },
+  {
+    "id": "h20",
+    "name": "ルルカ",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "妨害"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/441345",
+    "researchNote": "ガードブレイクHAと複数の攻撃カードを使い分ける",
+    "sourcePublished": "2026-06-01",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h20.jpeg"
+  },
+  {
+    "id": "h21",
+    "name": "狐ヶ咲 甘色",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "戦略"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/466410",
+    "researchNote": "相手の攻撃を読んでHAでカウンターする駆け引き型",
+    "sourcePublished": "2026-08-20",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h21.jpeg"
+  },
+  {
+    "id": "h22",
+    "name": "イグニス=ウィル=ウィスプ",
+    "role": "アタッカー",
+    "tags": [
+      "妨害",
+      "支援",
+      "機動力"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/496910",
+    "researchNote": "手錠を使ったHAで相手の動きを制限し、味方の攻撃を支える",
+    "sourcePublished": "2026-08-14",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h22.jpeg"
+  },
+  {
+    "id": "h23",
+    "name": "ステリア・ララ・シルワ",
+    "role": "アタッカー",
+    "tags": [
+      "攻撃",
+      "妨害",
+      "奇襲"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/510529",
+    "researchNote": "サイレントで敵の行動を制限し、突進HAや広範囲HSで奇襲する。移動速度は遅い。",
+    "sourcePublished": "2026-09-30",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h23.jpeg"
+  },
+  {
+    "id": "h24",
+    "name": "クー・シー",
+    "role": "アタッカー",
+    "tags": [
+      "機動力",
+      "戦略",
+      "奇襲"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/540983",
+    "researchNote": "3種類のHAを使い分け、素早い移動で相手を翻弄する。",
+    "sourcePublished": "2025-08-20",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h24.jpeg"
+  },
+  {
+    "id": "h25",
+    "name": "コラプス",
+    "role": "アタッカー",
+    "tags": [
+      "近距離",
+      "攻撃",
+      "戦略"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/550017",
+    "researchNote": "ブラックホールと強化された近距離カードを組み合わせてキルを狙う。",
+    "sourcePublished": "2026-06-04",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h25.jpeg"
+  },
+  {
+    "id": "h26",
+    "name": "シャルル・リヒター",
+    "role": "アタッカー",
+    "tags": [
+      "妨害",
+      "戦略",
+      "機動力"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/582583",
+    "researchNote": "バックステップHAと前方に届く周囲カード、状態異常を組み合わせる。",
+    "sourcePublished": "2026-09-16",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h26.jpeg"
+  },
+  {
+    "id": "h27",
+    "name": "オクトバリ・ニャル・タココ",
+    "role": "アタッカー",
+    "tags": [
+      "妨害",
+      "攻撃",
+      "防衛"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/592256",
+    "researchNote": "触手の設置で敵の進路を制限し、暗闇効果やHSで攻撃・防衛する。先行プレイ情報のため要再確認。",
+    "sourcePublished": "2026-10-26",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h27.jpeg",
+    "officialProfileSource": "https://www.nhn-playart.com/news/detail/?id=2523-10876645",
+    "imageNote": "公式プレスリリースでキャラクターの姿を確認。画像の直接利用は未設定。"
+  },
+  {
+    "id": "h28",
+    "name": "リリカ",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "支援",
+      "攻撃"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h28.jpeg"
+  },
+  {
+    "id": "h29",
+    "name": "ルチアーノ",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "戦略"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/232197",
+    "researchNote": "逃げ撃ちとHSの発動タイミングが重要。",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h29.jpeg"
+  },
+  {
+    "id": "h30",
+    "name": "深川 まとい",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "防衛"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/230412",
+    "summary": "火属性強化と遠距離火力が特徴。接近への迎撃判断が重要。",
+    "sourcePublished": "2026-05-13",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h30.jpeg"
+  },
+  {
+    "id": "h31",
+    "name": "13 ‡サーティーン‡",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "柔軟"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/331253",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h31.jpeg",
+    "researchNote": "ガンナーとアタッカーを切り替えられ、キルによる回復も特徴。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h32",
+    "name": "メグメグ",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "戦略"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/346985",
+    "summary": "HAでの連射が主力。射線と引き際を考える遠距離戦向け。",
+    "sourcePublished": "2026-10-09",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h32.jpeg"
+  },
+  {
+    "id": "h33",
+    "name": "イスタカ",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "耐久"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/365276",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h33.jpeg",
+    "researchNote": "マピヤと連携した攻撃と、耐久力を活かした撃ち合いが特徴。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h34",
+    "name": "ソーン=ユーリエフ",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "妨害",
+      "防衛"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/391208",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h34.jpeg",
+    "researchNote": "長射程の通常攻撃と氷のHAで相手をけん制し、周囲カードで接近に対応する。低体力のため距離管理が重要。",
+    "sourcePublished": "2025-08-26",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h35",
+    "name": "ニーズヘッグ",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "戦略",
+      "ゲージ管理"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/477899",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h35.jpeg",
+    "researchNote": "スキルゲージを消費する長射程HAと通常攻撃を使い分ける。射線やゲージ管理が重要。",
+    "sourceChecked": "2026-11-21",
+    "diagnosisNote": "専用ゲージを管理して遠距離攻撃を使い分ける"
+  },
+  {
+    "id": "h36",
+    "name": "ゲームバズーカガール",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "妨害",
+      "防衛"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/483839",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h36.jpeg",
+    "researchNote": "攻撃による吹き飛ばしとHAを利用し、敵を遠ざけてポータル制圧や防衛を助ける。",
+    "sourcePublished": "2026-07-09",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h37",
+    "name": "糸廻 輪廻",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "戦略",
+      "罠",
+      "奇襲"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/500961",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h37.jpeg",
+    "researchNote": "高火力の爆発罠を設置し、相手のHPを削って追い詰める攻撃寄りの罠使い。",
+    "sourcePublished": "2026-06-08",
+    "sourceChecked": "2026-11-21",
+    "playerFeedback": "ユーザーの実プレイ感覚を反映（2026-11-21）",
+    "specialEnding": "🎉 おめでとうございます！あなたはクズです！",
+    "specialEndingNote": "※サイト内のネタコメントです。プレイヤー本人への評価ではありません。"
+  },
+  {
+    "id": "h38",
+    "name": "Bugdoll",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "戦略",
+      "妨害"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/506406",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h38.jpeg",
+    "researchNote": "障害物を無視する超長射程HAで敵のHPを削り、味方が倒しやすい状況を作る。接近されない位置取りが重要。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h39",
+    "name": "天空王 ぶれいずどらごん",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "妨害",
+      "防衛",
+      "戦略"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/529712",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h39.jpeg",
+    "researchNote": "飛行HAとブレスで火炎エリアを作り、敵の移動を制限。飛行時のHP消費と回復管理が重要。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h40",
+    "name": "みりぽゆ",
+    "role": "ガンナー",
+    "tags": [
+      "攻撃",
+      "近距離",
+      "機動力",
+      "奇襲"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://game8.jp/compass-battle/820830",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h40.jpeg",
+    "researchNote": "自分から敵の懐に飛び込む攻撃的なガンナー。HAは最大10段階まで威力が上昇し、HSは対象を追尾する。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h41",
+    "name": "メルーニャ",
+    "role": "ガンナー",
+    "tags": [
+      "遠距離",
+      "攻撃",
+      "戦略",
+      "柔軟"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://game8.jp/compass-battle/820822",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h41.jpeg",
+    "researchNote": "弱点属性を狙う大器晩成型ガンナー。超遠距離HAは最大5発、精霊を使ったHSの発動タイミングが重要。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h42",
+    "name": "ジャスティス ハンコック",
+    "role": "タンク",
+    "tags": [
+      "防衛",
+      "耐久",
+      "支援"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/category/strategyguide/compass",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h42.jpeg"
+  },
+  {
+    "id": "h43",
+    "name": "ジャンヌ ダルク",
+    "role": "タンク",
+    "tags": [
+      "防衛",
+      "耐久",
+      "支援"
+    ],
+    "reviewStatus": "仮評価・要検証",
+    "source": "https://games.app-liv.jp/archives/229854",
+    "researchNote": "ポータル防衛と味方への支援が中心。",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h43.jpeg"
+  },
+  {
+    "id": "h44",
+    "name": "グスタフ ハイドリヒ",
+    "role": "タンク",
+    "tags": [
+      "耐久",
+      "妨害",
+      "防衛"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/251781",
+    "summary": "高い耐久力と周囲攻撃が特徴。継続ダメージへの回復管理が必要。",
+    "sourcePublished": "2025-07-03",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h44.jpeg"
+  },
+  {
+    "id": "h45",
+    "name": "ヴィオレッタ ノワール",
+    "role": "タンク",
+    "tags": [
+      "耐久",
+      "妨害",
+      "防衛"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/282804",
+    "researchNote": "サイレントで敵のカード使用を妨害し、高い耐久力でポータルを守る。",
+    "sourcePublished": "2026-10-28",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h45.jpeg"
+  },
+  {
+    "id": "h46",
+    "name": "トマス",
+    "role": "タンク",
+    "tags": [
+      "支援",
+      "防衛",
+      "戦略"
+    ],
+    "reviewStatus": "攻略記事確認・仮評価",
+    "source": "https://games.app-liv.jp/archives/409527",
+    "summary": "味方へのダメージ肩代わりと回復支援。仲間の状態管理が重要。",
+    "sourcePublished": "2026-05-13",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h46.jpeg"
+  },
+  {
+    "id": "h47",
+    "name": "青春アリス",
+    "role": "タンク",
+    "tags": [
+      "支援",
+      "防衛",
+      "耐久",
+      "妨害"
+    ],
+    "reviewStatus": "攻略情報確認・仮評価",
+    "source": "https://app.nhn-playart.com/compass/hero.nhn",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h47.jpeg",
+    "researchNote": "トランプ兵で味方へのダメージを減らし、押し出しで敵を遠ざける。味方へのワープや攻撃力支援も得意。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h48",
+    "name": "ラヴィ・シュシュマルシュ",
+    "role": "タンク",
+    "tags": [
+      "耐久",
+      "妨害",
+      "近距離",
+      "攻撃"
+    ],
+    "reviewStatus": "攻略情報確認・仮評価",
+    "source": "https://gamerch.com/compass/454727",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h48.jpeg",
+    "researchNote": "敵を引き寄せて行動を妨害し、与えたダメージからライフを吸収して粘り強く戦う。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h49",
+    "name": "アミスター=バランディン",
+    "role": "タンク",
+    "tags": [
+      "防衛",
+      "耐久",
+      "支援",
+      "戦略"
+    ],
+    "reviewStatus": "攻略情報確認・仮評価",
+    "source": "https://app.nhn-playart.com/compass/hero.nhn?heroIndex=47",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h49.jpeg",
+    "researchNote": "盾で前方のダメージを反射し、周囲の味方の被ダメージを減らす。騎乗時は機動力も活かせる。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h50",
+    "name": "鬼ヶ式 うら",
+    "role": "タンク",
+    "tags": [
+      "妨害",
+      "防衛",
+      "攻撃",
+      "戦略"
+    ],
+    "reviewStatus": "攻略情報確認・仮評価",
+    "source": "https://app.nhn-playart.com/compass/hero.nhn?heroIndex=47",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h50.jpeg",
+    "researchNote": "多段階の打ち上げHAと周囲攻撃カードで敵を浮かせ、ポータル防衛や味方の攻撃機会を作る。",
+    "sourceChecked": "2026-11-21"
+  },
+  {
+    "id": "h51",
+    "name": "‡ファースト‡",
+    "role": "タンク",
+    "tags": [
+      "支援",
+      "防衛",
+      "耐久",
+      "柔軟"
+    ],
+    "reviewStatus": "攻略情報確認・仮評価",
+    "source": "https://gamerch.com/compass/454727",
+    "imageStatus": "ユーザー提供画像",
+    "imageUrl": "images/h51.jpeg",
+    "researchNote": "ヒーローアクションで自分と周囲の味方に持続的な状態異常回復を付与し、前線を支える。",
+    "sourceChecked": "2026-11-21"
+  }
+]

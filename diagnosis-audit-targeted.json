@@ -1,0 +1,240 @@
+{
+  "normalPathsAvailable": 3584,
+  "targetedTrials": 53,
+  "witnesses": {
+    "コクリコット ブランシュ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": false
+        },
+        {
+          "id": "close_fast",
+          "yes": true
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": false
+        },
+        {
+          "id": "adapt_fast",
+          "yes": false
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "防衛",
+          "yes": false
+        },
+        {
+          "tag": "弱体化",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h04",
+          "name": "コクリコット ブランシュ",
+          "score": 12.25
+        },
+        {
+          "id": "h26",
+          "name": "シャルル・リヒター",
+          "score": 11.25
+        },
+        {
+          "id": "h16",
+          "name": "マリア=S=レオンブルク",
+          "score": 9
+        }
+      ]
+    },
+    "チーちゃん": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": true
+        },
+        {
+          "id": "close_fast",
+          "yes": true
+        },
+        {
+          "id": "control_fast",
+          "yes": false
+        },
+        {
+          "id": "help_fast",
+          "yes": true
+        },
+        {
+          "id": "adapt_fast",
+          "yes": true
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "遠距離",
+          "yes": false
+        },
+        {
+          "tag": "疾走攻撃",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h11",
+          "name": "チーちゃん",
+          "score": 12.75
+        },
+        {
+          "id": "h24",
+          "name": "クー・シー",
+          "score": 11.75
+        },
+        {
+          "id": "h37",
+          "name": "糸廻 輪廻",
+          "score": 10.75
+        }
+      ]
+    },
+    "ニーズヘッグ": {
+      "normal": [
+        {
+          "id": "start",
+          "yes": true
+        },
+        {
+          "id": "fight",
+          "yes": true
+        },
+        {
+          "id": "ambush",
+          "yes": true
+        },
+        {
+          "id": "tactics",
+          "yes": true
+        },
+        {
+          "id": "trap",
+          "yes": true
+        },
+        {
+          "id": "final",
+          "yes": true
+        },
+        {
+          "id": "style_fast",
+          "yes": false
+        },
+        {
+          "id": "close_fast",
+          "yes": false
+        },
+        {
+          "id": "control_fast",
+          "yes": true
+        },
+        {
+          "id": "help_fast",
+          "yes": false
+        },
+        {
+          "id": "adapt_fast",
+          "yes": false
+        }
+      ],
+      "adaptive": [
+        {
+          "tag": "遠距離",
+          "yes": true
+        },
+        {
+          "tag": "弱体化",
+          "yes": false
+        },
+        {
+          "tag": "防衛",
+          "yes": false
+        },
+        {
+          "tag": "ゲージ管理",
+          "yes": true
+        }
+      ],
+      "top3": [
+        {
+          "id": "h35",
+          "name": "ニーズヘッグ",
+          "score": 12.25
+        },
+        {
+          "id": "h26",
+          "name": "シャルル・リヒター",
+          "score": 11.25
+        },
+        {
+          "id": "h38",
+          "name": "Bugdoll",
+          "score": 11.25
+        }
+      ]
+    }
+  },
+  "allThreeConfirmed": true
+}

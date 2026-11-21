@@ -1,0 +1,19 @@
+{
+  "version": "2.9",
+  "normalAnswerPaths": 3584,
+  "sampledPaths": 512,
+  "uniqueFirstPlaceHeroes": 48,
+  "heroesAppearingTop3": 51,
+  "topScoreTies": 280,
+  "adaptiveQuestionAvailable": 476,
+  "pathsWithRepeatedTags": 492,
+  "rinnePotentialPaths": 106,
+  "neverFirstPlace": [
+    "コクリコット ブランシュ",
+    "チーちゃん",
+    "ニーズヘッグ"
+  ],
+  "duplicateTagScoreTest": "passed",
+  "specialBranchSourceCheck": "passed",
+  "notes": "512 sampled normal paths scored with real scoring; special route source-checked; browser interaction not yet tested."
+}

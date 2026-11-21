@@ -1,0 +1,26 @@
+{
+  "passed": 0,
+  "total": 4,
+  "tests": [
+    {
+      "name": "normal finish",
+      "ok": false,
+      "error": "Cannot set properties of undefined (setting 'width')"
+    },
+    {
+      "name": "back",
+      "ok": false,
+      "error": "Cannot set properties of undefined (setting 'width')"
+    },
+    {
+      "name": "Rinne route reachable",
+      "ok": false,
+      "error": "Cannot set properties of undefined (setting 'width')"
+    },
+    {
+      "name": "reset",
+      "ok": false,
+      "error": "Cannot set properties of undefined (setting 'width')"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "method": "512 deterministic pseudorandom yes/no answer sequences; special route dismissed for audit",
+  "trials": 512,
+  "firstPlaceHeroes": 40,
+  "topThreeHeroes": 51,
+  "firstPlaceTies": 168,
+  "topFirstPlaces": [
+    {
+      "name": "トマス",
+      "count": 41
+    },
+    {
+      "name": "ラヴィ・シュシュマルシュ",
+      "count": 38
+    },
+    {
+      "name": "糸廻 輪廻",
+      "count": 38
+    },
+    {
+      "name": "チーちゃん",
+      "count": 36
+    },
+    {
+      "name": "‡ファースト‡",
+      "count": 33
+    },
+    {
+      "name": "イグニス=ウィル=ウィスプ",
+      "count": 29
+    },
+    {
+      "name": "コクリコット ブランシュ",
+      "count": 26
+    },
+    {
+      "name": "みりぽゆ",
+      "count": 26
+    },
+    {
+      "name": "クー・シー",
+      "count": 24
+    },
+    {
+      "name": "鬼ヶ式 うら",
+      "count": 20
+    }
+  ],
+  "neverFirst": [
+    "零夜",
+    "某＜なにがし＞",
+    "マルコス'55",
+    "ルルカ",
+    "コラプス",
+    "ルチアーノ",
+    "メグメグ",
+    "ゲームバズーカガール",
+    "ジャンヌ ダルク",
+    "ヴィオレッタ ノワール",
+    "アミスター=バランディン"
+  ]
+}
