@@ -1,0 +1,653 @@
+[
+  {
+    "text": "味方が戦いやすい状況を作るのが好き？",
+    "tag": "支援",
+    "category": "連携",
+    "family": "支援",
+    "variant": 0
+  },
+  {
+    "text": "自分が敵を倒すより味方の活躍を支えたい？",
+    "tag": "支援",
+    "category": "連携",
+    "family": "支援",
+    "variant": 1
+  },
+  {
+    "text": "味方のピンチに駆けつける役割が好き？",
+    "tag": "支援",
+    "category": "連携",
+    "family": "支援",
+    "variant": 2
+  },
+  {
+    "text": "味方の攻撃チャンスを作ることに達成感がある？",
+    "tag": "支援",
+    "category": "連携",
+    "family": "支援",
+    "variant": 3
+  },
+  {
+    "text": "自分より味方を優先する場面が多い戦い方が好き？",
+    "tag": "支援",
+    "category": "連携",
+    "family": "支援",
+    "variant": 4
+  },
+  {
+    "text": "マップを素早く移動できるヒーローが好き？",
+    "tag": "機動力",
+    "category": "移動",
+    "family": "機動力",
+    "variant": 0
+  },
+  {
+    "text": "ポータルを取りに走り回るのが好き？",
+    "tag": "機動力",
+    "category": "移動",
+    "family": "機動力",
+    "variant": 1
+  },
+  {
+    "text": "戦闘を避けながら有利な場所へ移動したい？",
+    "tag": "機動力",
+    "category": "移動",
+    "family": "機動力",
+    "variant": 2
+  },
+  {
+    "text": "足の速さを活かして敵を振り回したい？",
+    "tag": "機動力",
+    "category": "移動",
+    "family": "機動力",
+    "variant": 3
+  },
+  {
+    "text": "前線と裏取りを素早く行き来したい？",
+    "tag": "機動力",
+    "category": "移動",
+    "family": "機動力",
+    "variant": 4
+  },
+  {
+    "text": "敵を倒して試合を動かす役割が好き？",
+    "tag": "攻撃",
+    "category": "攻撃",
+    "family": "攻撃",
+    "variant": 0
+  },
+  {
+    "text": "積極的にキルを狙う戦い方が好き？",
+    "tag": "攻撃",
+    "category": "攻撃",
+    "family": "攻撃",
+    "variant": 1
+  },
+  {
+    "text": "ポータル確保より戦闘に参加する時間を増やしたい？",
+    "tag": "攻撃",
+    "category": "攻撃",
+    "family": "攻撃",
+    "variant": 2
+  },
+  {
+    "text": "自分から攻めて相手に圧力をかけたい？",
+    "tag": "攻撃",
+    "category": "攻撃",
+    "family": "攻撃",
+    "variant": 3
+  },
+  {
+    "text": "味方の攻撃に合わせて敵を倒したい？",
+    "tag": "攻撃",
+    "category": "攻撃",
+    "family": "攻撃",
+    "variant": 4
+  },
+  {
+    "text": "奪ったポータルを守り続けるのが好き？",
+    "tag": "防衛",
+    "category": "防衛",
+    "family": "防衛",
+    "variant": 0
+  },
+  {
+    "text": "敵が攻めてくるのを待ち受ける戦い方が好き？",
+    "tag": "防衛",
+    "category": "防衛",
+    "family": "防衛",
+    "variant": 1
+  },
+  {
+    "text": "自分が倒すよりポータルを守ることを優先したい？",
+    "tag": "防衛",
+    "category": "防衛",
+    "family": "防衛",
+    "variant": 2
+  },
+  {
+    "text": "敵の進行を止めて時間を稼ぎたい？",
+    "tag": "防衛",
+    "category": "防衛",
+    "family": "防衛",
+    "variant": 3
+  },
+  {
+    "text": "拠点周辺でじっくり戦いたい？",
+    "tag": "防衛",
+    "category": "防衛",
+    "family": "防衛",
+    "variant": 4
+  },
+  {
+    "text": "敵の行動を邪魔するのが好き？",
+    "tag": "妨害",
+    "category": "妨害",
+    "family": "妨害",
+    "variant": 0
+  },
+  {
+    "text": "相手の攻撃のタイミングを崩したい？",
+    "tag": "妨害",
+    "category": "妨害",
+    "family": "妨害",
+    "variant": 1
+  },
+  {
+    "text": "敵を自由に動かさない戦い方が好き？",
+    "tag": "妨害",
+    "category": "妨害",
+    "family": "妨害",
+    "variant": 2
+  },
+  {
+    "text": "相手の計画を妨害して有利にしたい？",
+    "tag": "妨害",
+    "category": "妨害",
+    "family": "妨害",
+    "variant": 3
+  },
+  {
+    "text": "味方が攻撃しやすいように敵の行動を止めたい？",
+    "tag": "妨害",
+    "category": "妨害",
+    "family": "妨害",
+    "variant": 4
+  },
+  {
+    "text": "敵から距離を取って攻撃したい？",
+    "tag": "遠距離",
+    "category": "距離",
+    "family": "遠距離",
+    "variant": 0
+  },
+  {
+    "text": "近づかれる前に攻撃を当てたい？",
+    "tag": "遠距離",
+    "category": "距離",
+    "family": "遠距離",
+    "variant": 1
+  },
+  {
+    "text": "安全な位置を確保して戦いたい？",
+    "tag": "遠距離",
+    "category": "距離",
+    "family": "遠距離",
+    "variant": 2
+  },
+  {
+    "text": "敵との距離を調整する駆け引きが好き？",
+    "tag": "遠距離",
+    "category": "距離",
+    "family": "遠距離",
+    "variant": 3
+  },
+  {
+    "text": "遠くの敵にもプレッシャーをかけたい？",
+    "tag": "遠距離",
+    "category": "距離",
+    "family": "遠距離",
+    "variant": 4
+  },
+  {
+    "text": "敵に近づいて戦う方が楽しい？",
+    "tag": "近距離",
+    "category": "距離",
+    "family": "近距離",
+    "variant": 0
+  },
+  {
+    "text": "接近して一気に勝負を決めたい？",
+    "tag": "近距離",
+    "category": "距離",
+    "family": "近距離",
+    "variant": 1
+  },
+  {
+    "text": "相手のすぐ近くで攻撃のタイミングを計りたい？",
+    "tag": "近距離",
+    "category": "距離",
+    "family": "近距離",
+    "variant": 2
+  },
+  {
+    "text": "距離を詰めて戦うことに抵抗がない？",
+    "tag": "近距離",
+    "category": "距離",
+    "family": "近距離",
+    "variant": 3
+  },
+  {
+    "text": "攻撃も防衛も状況次第で切り替えたい？",
+    "tag": "万能",
+    "category": "柔軟",
+    "family": "万能",
+    "variant": 0
+  },
+  {
+    "text": "一つの役割に縛られず戦いたい？",
+    "tag": "万能",
+    "category": "柔軟",
+    "family": "万能",
+    "variant": 1
+  },
+  {
+    "text": "味方の構成に合わせて役割を変えたい？",
+    "tag": "万能",
+    "category": "柔軟",
+    "family": "万能",
+    "variant": 2
+  },
+  {
+    "text": "状況に応じて複数の戦い方を選びたい？",
+    "tag": "万能",
+    "category": "柔軟",
+    "family": "万能",
+    "variant": 3
+  },
+  {
+    "text": "敵の動きを予測して仕掛けるのが好き？",
+    "tag": "戦略",
+    "category": "戦術",
+    "family": "戦略",
+    "variant": 0
+  },
+  {
+    "text": "正面勝負より位置取りで有利を作りたい？",
+    "tag": "戦略",
+    "category": "戦術",
+    "family": "戦略",
+    "variant": 1
+  },
+  {
+    "text": "攻める前に相手の行動を観察したい？",
+    "tag": "戦略",
+    "category": "戦術",
+    "family": "戦略",
+    "variant": 2
+  },
+  {
+    "text": "カードを使う順番やタイミングを考えるのが好き？",
+    "tag": "戦略",
+    "category": "戦術",
+    "family": "戦略",
+    "variant": 3
+  },
+  {
+    "text": "状況を見て攻めるか退くか判断したい？",
+    "tag": "戦略",
+    "category": "戦術",
+    "family": "戦略",
+    "variant": 4
+  },
+  {
+    "text": "長く生き残れることを重視する？",
+    "tag": "耐久",
+    "category": "生存",
+    "family": "耐久",
+    "variant": 0
+  },
+  {
+    "text": "多少攻撃力が低くても倒されにくい方が好き？",
+    "tag": "耐久",
+    "category": "生存",
+    "family": "耐久",
+    "variant": 1
+  },
+  {
+    "text": "敵の攻撃を受け止める役割が好き？",
+    "tag": "耐久",
+    "category": "生存",
+    "family": "耐久",
+    "variant": 2
+  },
+  {
+    "text": "粘り強く戦って時間を稼ぎたい？",
+    "tag": "耐久",
+    "category": "生存",
+    "family": "耐久",
+    "variant": 3
+  },
+  {
+    "text": "倒されやすくても機動力や攻撃性能を優先したい？",
+    "tag": "低耐久",
+    "category": "リスク",
+    "family": "低耐久",
+    "variant": 0
+  },
+  {
+    "text": "体力が低いヒーローでも立ち回りで補うのが好き？",
+    "tag": "低耐久",
+    "category": "リスク",
+    "family": "低耐久",
+    "variant": 1
+  },
+  {
+    "text": "一度のミスが大きく響く緊張感を楽しめる？",
+    "tag": "低耐久",
+    "category": "リスク",
+    "family": "低耐久",
+    "variant": 2
+  },
+  {
+    "text": "耐久より回避や先手を重視したい？",
+    "tag": "低耐久",
+    "category": "リスク",
+    "family": "低耐久",
+    "variant": 3
+  },
+  {
+    "text": "敵の隙を突いて攻めるのが好き？",
+    "tag": "奇襲",
+    "category": "奇襲",
+    "family": "奇襲",
+    "variant": 0
+  },
+  {
+    "text": "相手の視界外から攻撃したい？",
+    "tag": "奇襲",
+    "category": "奇襲",
+    "family": "奇襲",
+    "variant": 1
+  },
+  {
+    "text": "正面から戦うより不意を突く方が好き？",
+    "tag": "奇襲",
+    "category": "奇襲",
+    "family": "奇襲",
+    "variant": 2
+  },
+  {
+    "text": "敵の注意がそれた瞬間を狙いたい？",
+    "tag": "奇襲",
+    "category": "奇襲",
+    "family": "奇襲",
+    "variant": 3
+  },
+  {
+    "text": "罠を置いて相手を誘導するのが好き？",
+    "tag": "罠",
+    "category": "設置",
+    "family": "罠",
+    "variant": 0
+  },
+  {
+    "text": "敵が通りそうな場所を予測して仕掛けたい？",
+    "tag": "罠",
+    "category": "設置",
+    "family": "罠",
+    "variant": 1
+  },
+  {
+    "text": "直接攻撃するより設置物で敵を困らせたい？",
+    "tag": "罠",
+    "category": "設置",
+    "family": "罠",
+    "variant": 2
+  },
+  {
+    "text": "準備した罠が決まる瞬間が好き？",
+    "tag": "罠",
+    "category": "設置",
+    "family": "罠",
+    "variant": 3
+  },
+  {
+    "text": "敵のガードを破って攻撃するのが好き？",
+    "tag": "ガードブレイク",
+    "category": "ガード対策",
+    "family": "ガードブレイク",
+    "variant": 0
+  },
+  {
+    "text": "防御を固めた相手を崩す役割を担いたい？",
+    "tag": "ガードブレイク",
+    "category": "ガード対策",
+    "family": "ガードブレイク",
+    "variant": 1
+  },
+  {
+    "text": "ガードを使うタイミングを読んで対処したい？",
+    "tag": "ガードブレイク",
+    "category": "ガード対策",
+    "family": "ガードブレイク",
+    "variant": 2
+  },
+  {
+    "text": "相手の防御手段を崩して味方の攻撃につなげたい？",
+    "tag": "ガードブレイク",
+    "category": "ガード対策",
+    "family": "ガードブレイク",
+    "variant": 3
+  },
+  {
+    "text": "ガードブレイクのカードをデッキに入れて戦いたい？",
+    "tag": "ガードブレイクカード",
+    "category": "カード運用",
+    "family": "ガードブレイクカード",
+    "variant": 0
+  },
+  {
+    "text": "ガード対策にカード枠を使ってもよい？",
+    "tag": "ガードブレイクカード",
+    "category": "カード運用",
+    "family": "ガードブレイクカード",
+    "variant": 1
+  },
+  {
+    "text": "防御カードを使った相手にカードで反撃したい？",
+    "tag": "ガードブレイクカード",
+    "category": "カード運用",
+    "family": "ガードブレイクカード",
+    "variant": 2
+  },
+  {
+    "text": "一撃で大きなダメージを与える戦い方が好き？",
+    "tag": "ワンパン",
+    "category": "瞬間火力",
+    "family": "ワンパン",
+    "variant": 0
+  },
+  {
+    "text": "攻撃のタイミングを待って一気に決めたい？",
+    "tag": "ワンパン",
+    "category": "瞬間火力",
+    "family": "ワンパン",
+    "variant": 1
+  },
+  {
+    "text": "連続攻撃より一発の重さに魅力を感じる？",
+    "tag": "ワンパン",
+    "category": "瞬間火力",
+    "family": "ワンパン",
+    "variant": 2
+  },
+  {
+    "text": "高火力を当てるための駆け引きが好き？",
+    "tag": "ワンパン",
+    "category": "瞬間火力",
+    "family": "ワンパン",
+    "variant": 3
+  },
+  {
+    "text": "序盤は控えめでも終盤に強くなるのが好き？",
+    "tag": "大器晩成",
+    "category": "成長",
+    "family": "大器晩成",
+    "variant": 0
+  },
+  {
+    "text": "試合が進むほど強さを発揮するヒーローを使いたい？",
+    "tag": "大器晩成",
+    "category": "成長",
+    "family": "大器晩成",
+    "variant": 1
+  },
+  {
+    "text": "序盤は準備に専念する戦い方も楽しめる？",
+    "tag": "大器晩成",
+    "category": "成長",
+    "family": "大器晩成",
+    "variant": 2
+  },
+  {
+    "text": "後半の逆転に向けて力を蓄えるのが好き？",
+    "tag": "大器晩成",
+    "category": "成長",
+    "family": "大器晩成",
+    "variant": 3
+  },
+  {
+    "text": "敵を引き寄せて攻撃のきっかけを作りたい？",
+    "tag": "引っ張り",
+    "category": "位置操作",
+    "family": "引っ張り",
+    "variant": 0
+  },
+  {
+    "text": "相手の立ち位置をずらして有利にしたい？",
+    "tag": "引っ張り",
+    "category": "位置操作",
+    "family": "引っ張り",
+    "variant": 1
+  },
+  {
+    "text": "敵を引き寄せて味方と連携するのが好き？",
+    "tag": "引っ張り",
+    "category": "位置操作",
+    "family": "引っ張り",
+    "variant": 2
+  },
+  {
+    "text": "相手の位置をコントロールする技が好き？",
+    "tag": "引っ張り",
+    "category": "位置操作",
+    "family": "引っ張り",
+    "variant": 3
+  },
+  {
+    "text": "毒で少しずつ敵の体力を削るのが好き？",
+    "tag": "毒",
+    "category": "継続ダメージ",
+    "family": "毒",
+    "variant": 0
+  },
+  {
+    "text": "継続ダメージで相手に圧力をかけたい？",
+    "tag": "毒",
+    "category": "継続ダメージ",
+    "family": "毒",
+    "variant": 1
+  },
+  {
+    "text": "一撃よりもじわじわ追い詰める攻め方が好き？",
+    "tag": "毒",
+    "category": "継続ダメージ",
+    "family": "毒",
+    "variant": 2
+  },
+  {
+    "text": "劣勢から強力な一手で逆転したい？",
+    "tag": "一発逆転",
+    "category": "逆転",
+    "family": "一発逆転",
+    "variant": 0
+  },
+  {
+    "text": "ここぞという場面で試合をひっくり返したい？",
+    "tag": "一発逆転",
+    "category": "逆転",
+    "family": "一発逆転",
+    "variant": 1
+  },
+  {
+    "text": "大きな逆転のチャンスを持つヒーローが好き？",
+    "tag": "一発逆転",
+    "category": "逆転",
+    "family": "一発逆転",
+    "variant": 2
+  },
+  {
+    "text": "敵の攻撃力などを下げて有利にしたい？",
+    "tag": "弱体化",
+    "category": "弱体化",
+    "family": "弱体化",
+    "variant": 0
+  },
+  {
+    "text": "相手を弱くして味方を助けるのが好き？",
+    "tag": "弱体化",
+    "category": "弱体化",
+    "family": "弱体化",
+    "variant": 1
+  },
+  {
+    "text": "直接倒すより相手の能力を下げる方が好き？",
+    "tag": "弱体化",
+    "category": "弱体化",
+    "family": "弱体化",
+    "variant": 2
+  },
+  {
+    "text": "走りながら攻撃する戦い方が好き？",
+    "tag": "疾走攻撃",
+    "category": "ダッシュ攻撃",
+    "family": "疾走攻撃",
+    "variant": 0
+  },
+  {
+    "text": "高速移動から攻撃につなげたい？",
+    "tag": "疾走攻撃",
+    "category": "ダッシュ攻撃",
+    "family": "疾走攻撃",
+    "variant": 1
+  },
+  {
+    "text": "スピードを活かして相手に接近したい？",
+    "tag": "疾走攻撃",
+    "category": "ダッシュ攻撃",
+    "family": "疾走攻撃",
+    "variant": 2
+  },
+  {
+    "text": "HSを使うタイミングを考えるのが好き？",
+    "tag": "ゲージ管理",
+    "category": "HS運用",
+    "family": "ゲージ管理",
+    "variant": 0
+  },
+  {
+    "text": "強力なHSのためにゲージを貯めるのが好き？",
+    "tag": "ゲージ管理",
+    "category": "HS運用",
+    "family": "ゲージ管理",
+    "variant": 1
+  },
+  {
+    "text": "試合の流れを読んでHSを使いたい？",
+    "tag": "ゲージ管理",
+    "category": "HS運用",
+    "family": "ゲージ管理",
+    "variant": 2
+  }
+]
